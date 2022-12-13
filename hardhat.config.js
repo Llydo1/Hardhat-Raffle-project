@@ -22,7 +22,7 @@ module.exports = {
             chainId: 5,
             blockConfirmations: 6,
         },
-        hardhat: {
+        localhost: {
             chainId: 31337,
             blockConfirmations: 1,
         },
